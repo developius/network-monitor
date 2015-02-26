@@ -13,7 +13,7 @@ Contains the configurations for SFTP (SSH) access to the server:
 {
   "username":"your_username",
   "host":"your_server",
-  "password":"your_password"
+  "password":"your_password",
   "current-path":"/path/to/current.txt"
 }
 ```
