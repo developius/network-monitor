@@ -16,4 +16,4 @@ Contains the configurations for SFTP (SSH) access to the server:
   "password":"your_password"
 }
 ```
-The ```password``` value is optional - if not specified it uses your SSH key
+The ```password``` value is optional - if not specified or empty, it uses your SSH key
