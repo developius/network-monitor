@@ -14,6 +14,7 @@ Contains the configurations for SFTP (SSH) access to the server:
   "username":"your_username",
   "host":"your_server",
   "password":"your_password"
+  "current-path":"/path/to/current.txt"
 }
 ```
 The ```password``` value is optional - if left empty, it uses your SSH key
