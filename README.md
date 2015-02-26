@@ -19,3 +19,5 @@ Contains the configurations for SFTP (SSH) access to the server:
 }
 ```
 The ```password``` value is optional - if left empty, it uses your SSH key
+
+After the script has run once (without failure) the results will be accessible on your server at the location you specified in ```server-path-to-current``` in the config file.
